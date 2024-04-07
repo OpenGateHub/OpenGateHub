@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
 </div>
-<img src="https://imgur.com/UiT9bXL">
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/B8v8x8g"  ><a href="//imgur.com/a/B8v8x8g">OpenGateHub</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
 
 
 ## Sobre mi
