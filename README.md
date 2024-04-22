@@ -26,7 +26,7 @@
 <a href="https://www.argonglobal.tech/" target="_blank">
 <img src="https://img.shields.io/badge/Argon_Global_Tech-green">
 </a>
-</p>
+</p> Este sitio web ha sido creado con Tailwind CSS, JavaScript y jQuery, asegurando un diseño atractivo y una experiencia interactiva dinámica.
 </div>
                                                                                       
 </td>
