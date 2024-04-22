@@ -5,32 +5,24 @@
 
 
 
-## Sobre mi
+## Tech Stack Expertise
 
 🎨 Design Graphic
+🎬 Master FX Motion Graphics
 🖌️ UX/UI
-
 💻 HTML
 🎨 CSS
 💼 JavaScript
 ⚛️ React
-
 🐍 Python
 🐍 Flask & Django
-
 💼 PHP
-💼 PHP Relational
-
 ☕ JAVA
 ☕ Java Oracle & Spring
-
 💻 Backend & Database
 🔍 MySQL
 💼 SQL
-
 🐳 Docker
-
-🎬 Master FX Motion Graphics
 <br>
 
 ## Our *portfolio*
