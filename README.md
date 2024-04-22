@@ -53,19 +53,17 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Posh Palette</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://poshpalette.co/" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-22 a la(s) 18 39 26" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/543fa743-faac-4268-82be-4714a9dbf0a3">
 </a>
+<p>
   <br>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://poshpalette.co/" target="_blank">
+<img src="https://img.shields.io/badge/Posh_Palette_Co-brown">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Built with JavaScript, React, CSS, HTML, Node.js, MongoDB, and Express, this website represents a seamless fusion of cutting-edge technologies for a dynamic user experience.</p>
 </div>
                                                                                       
 </td>       
