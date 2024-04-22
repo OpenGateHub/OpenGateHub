@@ -24,9 +24,6 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://www.argonglobal.tech/" target="_blank">
-<img src="https://easyimg.io/i/getkl3kii/captura_de_pantalla_2024-04-22_a_la(s)_15.08.35.png">
-</a>
-<a href="https://www.argonglobal.tech/" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
