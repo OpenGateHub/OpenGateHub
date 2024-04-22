@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Argon Global Tech</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="<img width="1422" alt="Captura de Pantalla 2024-04-22 a la(s) 15 08 35" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/a7513794-2163-472e-b3f5-6036e81c971e">" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://www.argonglobal.tech/" target="_blank">
 <img src="https://img.shields.io/badge/Argon_Global_Tech-green">
