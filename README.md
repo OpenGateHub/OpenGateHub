@@ -38,8 +38,8 @@
 <div align="center">                                       
 <a href="https://drive.google.com/file/d/14UOs5RkZ1HWErQt9hT5r4ZVLnP1NlCwq/view" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-22 a la(s) 18 15 13" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/83cfdd41-fece-4bbb-8b0c-214f5d42973f">
 </a>
-<br>
 <p>
+   <br>
 <a href="https://drive.google.com/file/d/14UOs5RkZ1HWErQt9hT5r4ZVLnP1NlCwq/view" target="_blank">
 <img src="https://img.shields.io/badge/Watch_the_game-beige">
 </a>
