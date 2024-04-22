@@ -25,7 +25,7 @@
 🐳 Docker
 <br>
 
-## Our *portfolio*
+## Tech Showcase
 <table>
 <tr>
 <td width="50%">
