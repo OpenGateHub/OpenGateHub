@@ -24,7 +24,7 @@
 <a href="https://www.argonglobal.tech/" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-22 a la(s) 15 08 35" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/a7513794-2163-472e-b3f5-6036e81c971e" alt=""></a>
 <p>
 <a href="https://www.argonglobal.tech/" target="_blank">
-<img src="https://img.shields.io/badge/Argon_Global_Tech-green">
+<img src="https://img.shields.io/badge/Argon_Global_Tech-blue">
 </a>
 </p> Este sitio web ha sido creado con Tailwind CSS, JavaScript y jQuery, asegurando un diseño atractivo y una experiencia interactiva dinámica.
 </div>
