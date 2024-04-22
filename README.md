@@ -15,7 +15,7 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
-## Nuestro *portfolio*
+## Our *portfolio*
 <table>
 <tr>
 <td width="50%">
@@ -26,7 +26,7 @@
 <a href="https://www.argonglobal.tech/" target="_blank">
 <img src="https://img.shields.io/badge/Argon_Global_Tech-blue">
 </a>
-</p> Este sitio web ha sido creado con Tailwind CSS, JavaScript y jQuery, asegurando un diseño atractivo y una experiencia interactiva dinámica.
+</p> Crafted with Tailwind CSS, JavaScript, and jQuery, this website delivers an attractive design and dynamic interactive experience.
 </div>
                                                                                       
 </td>
@@ -35,7 +35,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
