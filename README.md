@@ -84,6 +84,7 @@
 <a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-23 a la(s) 12 45 22" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/f3ea8350-ae63-4de2-a141-067219e7a0d8">
 </a>
 <p>
+     <br>
 <a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank">
 <img src="https://img.shields.io/badge/Design_Portfolio-orange">
 </a>
