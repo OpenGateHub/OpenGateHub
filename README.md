@@ -79,18 +79,16 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Mirinda</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-23 a la(s) 12 45 22" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/a3075b49-189e-4ddb-a5d1-e2f5231043b4">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<p>
+<a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank">
+<img src="https://img.shields.io/badge/Design_Portfolio-orange">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Explore our graphic design portfolio for a glimpse into our diverse creative projects, including branding, logos, illustrations, and print designs.</p>
 </div>
                                                                                       
 </td>  
