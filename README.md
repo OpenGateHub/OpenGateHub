@@ -81,7 +81,7 @@
 <td width="50%">
 <h3 align="center">Mirinda</h3>
 <div align="center">
-<a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-23 a la(s) 12 45 22" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/a3075b49-189e-4ddb-a5d1-e2f5231043b4">
+<a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank"><img width="400" alt="Captura de Pantalla 2024-04-23 a la(s) 12 45 22" src="https://github.com/OpenGateHub/OpenGateHub/assets/165505298/f3ea8350-ae63-4de2-a141-067219e7a0d8">
 </a>
 <p>
 <a href="https://drive.google.com/drive/folders/15gradOKqWvCd30wCMh8joDZYTcs2XGa1" target="_blank">
