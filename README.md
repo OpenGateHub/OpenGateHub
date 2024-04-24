@@ -7,7 +7,7 @@
 
 ## Tech Stack Expertise
 
-🎨 Design Graphic Design
+🎨 Graphic Design
 🎬 Master FX Motion Graphics
 🖌️ UX/UI
 💻 HTML
