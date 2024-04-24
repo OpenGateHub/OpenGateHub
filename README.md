@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Open Gate Hub
 </div>
-<img src="https://i.imgur.com/eLGa4tw.jpg">
+<img src="[https://i.imgur.com/eLGa4tw.jpg](https://imgur.com/A3e4fvC)">
 
 
 
